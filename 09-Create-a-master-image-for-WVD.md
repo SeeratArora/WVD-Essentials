@@ -298,6 +298,7 @@ The UI form offers the following actions:
 
   Leave all values to default, except:
 
+   - Virtual network: **aadds-vnet** *(choose from dropdown)*
    - Subnet: **sessionhosts-subnet(10.0.1.0/24)** *(choose from dropdown)*
    - Specify Domain or Unit: **No**
 
